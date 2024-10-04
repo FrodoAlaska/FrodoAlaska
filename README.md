@@ -10,7 +10,7 @@ I hope this doesn't prevent you from playing my amazing artistic games.
 
 Here's where you can reach me: 
 
-- Email: moonimooni132@gmail.com
+- Email: mohamedag202@outlook.com
 - Discord: https://discord.com/users/frodo_alaska
 - LinkedIn: https://www.linkedin.com/in/mohamed-gadalla-047696239/
 - Itch: https://frodoalaska.itch.io/
