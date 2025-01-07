@@ -1,12 +1,4 @@
-Hey, there! I'm Frodo (no it's not my real name and I won't tell you my real name. Stop asking. I still love you, though). My real name is Mohamed.
-
-I'm an indie game developer from the best and greatest country in the damn world and universe Egypt (sarcasm warning). I mainly make games without game engines. I use my own tools and small programs to help me make these games. If you ask me why I took this approach, I would say it's my own curiosity and love for the low-level programming world. I can probably write a poem about that but I'll spare you the emotions. Since I'm primarily a programmer, the art of the games is not all that great. But I'm trying to learn as I go along... so leave me alone. 
-
-My main programming language is C++. Not because I love C++ or anything, rather, I've been living deep in Bjarne's dungeon and he's been forcing me to use C++.  But, beyond that, I mainly use Raylib or OpenGL/GLFW depending on the game I'm making.
-
-What I lack in professional experience, I make up for in extreme procrastination. I'm a very prominent member of the procrastination community.
-
-I hope this doesn't prevent you from playing my amazing artistic games.
+Games, game engines, and C++ are the essence of my programming journey. I'm in _love_ with making games from scratch—the tech, the theory, the math, the lower-level aspect. I'm all in for everything and anything related to building games from scratch. You are welcome to look at or use any of the repos.  
 
 Here's where you can reach me: 
 
