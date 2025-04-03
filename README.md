@@ -1,4 +1,4 @@
-<h2 alight="center>Welcome To Frodo Land</h2>
+<h2 alight="center">Welcome To Frodo Land</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerodkibatu&label=Profile%20views&color=35a0bb&style=flat-square" alt="kerodkibatu" /> </p>
 
