@@ -7,10 +7,10 @@ Games, game engines, and C++ are the essence of my programming journey. I'm in _
 Here's where you can reach me: 
 
 - Email: mohamedag202@outlook.com
-- Discord: https://discord.com/users/frodo_alaska
+- Discord: https://discord.com/users/halfapharaoh
 - LinkedIn: https://www.linkedin.com/in/mohamed-gadalla-047696239/
 - Itch: https://frodoalaska.itch.io/
-- X (previously Twitter): https://x.com/smed132
+- X (previously Twitter): https://x.com/halfapharaoh
 
 <!---
 MohamedAG2002/MohamedAG2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
